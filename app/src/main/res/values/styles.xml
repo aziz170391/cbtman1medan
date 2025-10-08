@@ -1,0 +1,7 @@
+<resources>
+    <!-- ProgressBar besar dengan warna putih -->
+    <style name="WhiteProgressBar" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:indeterminateTint">@android:color/white</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+    </style>
+</resources>
